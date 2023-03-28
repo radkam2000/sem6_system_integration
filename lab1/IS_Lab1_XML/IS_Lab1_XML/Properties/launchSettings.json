@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "IS_Lab1_XML": {
+      "commandName": "Project"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}
