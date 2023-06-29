@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "027558da-b6fb-4169-b9a3-ffc9bde8e205",
+		"name": "Cities",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Pobierz dane wybranego miasta",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/IS_LAB6_REST/cities/read/10",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"IS_LAB6_REST",
+						"cities",
+						"read",
+						"10"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
